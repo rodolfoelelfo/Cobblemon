@@ -11,10 +11,10 @@
     "totalCaptureCount": 26,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 134,
+    "totalBattleVictoryCount": 150,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 104,
-    "totalPvNBattleVictoryCount": 30,
+    "totalPvWBattleVictoryCount": 114,
+    "totalPvNBattleVictoryCount": 36,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
@@ -42,7 +42,7 @@
       "cobblemon:combee": 6,
       "cobblemon:nincada": 1,
       "cobblemon:caterpie": 2,
-      "cobblemon:spinarak": 2,
+      "cobblemon:spinarak": 3,
       "cobblemon:petilil": 1,
       "cobblemon:lechonk": 1,
       "cobblemon:makuhita": 1,
@@ -63,7 +63,7 @@
       "cobblemon:pidgeotto": 2,
       "cobblemon:fomantis": 1,
       "cobblemon:gossifleur": 1,
-      "cobblemon:lilligant": 1,
+      "cobblemon:lilligant": 2,
       "cobblemon:tangela": 1,
       "cobblemon:deerling": 1,
       "cobblemon:mankey": 1,
@@ -77,7 +77,13 @@
       "cobblemon:buizel": 1,
       "cobblemon:dreepy": 1,
       "cobblemon:wingull": 2,
-      "cobblemon:ralts": 1
+      "cobblemon:ralts": 1,
+      "cobblemon:oddish": 1,
+      "cobblemon:butterfree": 3,
+      "cobblemon:cottonee": 1,
+      "cobblemon:vivillon": 1,
+      "cobblemon:shroomish": 1,
+      "cobblemon:ninjask": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [
